@@ -1,0 +1,24 @@
+_repo: Kotihengettaria_66811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hirn, Eva
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '53947'
+    url: http://www.gutenberg.org/2009/agents/53947
+    wikipedia: https://fi.wikipedia.org/wiki/Eva_Hirn
+description: ''
+gutenberg_issued: '2021-11-24'
+identifiers:
+  gutenberg: '66811'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Kotihengettäriä
+url: http://www.gutenberg.org/ebooks/66811
